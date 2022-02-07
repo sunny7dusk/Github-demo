@@ -1,6 +1,6 @@
 ﻿# Github-demo
  
-![Taught on YouTube under GDSC](https://www.youtube.com/watch?v=sdDefCGsr-A)
+[Taught on YouTube under GDSC](https://www.youtube.com/watch?v=sdDefCGsr-A)
  
 [This page](https://sunny7dusk.github.io/Github-demo/)
 
